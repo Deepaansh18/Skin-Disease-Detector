@@ -1,6 +1,6 @@
 #  Skin Disease Detector 
 
-A simple and basic Python, artificial intelligence and machine learning project that shows the skin disease detection using image file details. The model analyse the image URl path and predicts the type of skin disease it has along with basic information and precautions. This project is built mainly for learning purposes.
+A simple and basic Python, artificial intelligence and machine learning project that shows the skin disease detection using image file details. The model analyse the image URL path and predicts the type of skin disease it has along with basic information and precautions. This project is built mainly for learning purposes.
 
 ---
 
