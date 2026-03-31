@@ -10,11 +10,10 @@ This program takes an image file as input and tries to predict a possible skin d
 
 - The **image filename** (keywords like acne, rash, etc.)
 - The **image size** (used to simulate detection confidence)
-
-It then provides:
-- Detected disease name  
-- Suggested cure  
-- Detection method  
+- It then provides:
+    - Detected disease name  
+    - Suggested cure  
+    - Detection method  
 
 ---
 
