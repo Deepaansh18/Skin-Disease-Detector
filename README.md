@@ -49,7 +49,7 @@ It then provides:
    - File size  
 4. Detection happens in two steps:
    - **Step 1:** Keyword matching from filename  
-   - **Step 2:** If no match → weighted random detection  
+   - **Step 2:** If no match then weighted random detection  
 5. Displays:
    - Disease name  
    - Detection method  
